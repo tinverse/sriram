@@ -1,2 +1,1 @@
-# sriram
-Sriram's Repo
+My [resume](https://tinverse.github.io/sriram/Sriram_Sundararajan.pdf)
